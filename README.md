@@ -3,13 +3,14 @@ My first relational database design
 
 and my first public git file :)
 
-This database was created as part of our final capstone project at Tech Elevator - December 2021
-Team members
- Cecilia (me)
- Nate 
- Essence 
- Aaron 
- Kris 
+This database was created as part of our final capstone project at Tech Elevator - December 2021 
+
+  Team members
+  - Cecilia (me)
+  - Nate 
+  - Essence 
+  - Aaron 
+  - Kris 
  
 With a starter schema (and excellent coaching) provided by Tech Elevator, and valued assistance from Kris and Aaron, I designed and built this database 
  
