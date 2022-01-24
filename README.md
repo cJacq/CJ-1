@@ -1,5 +1,5 @@
 # CJ-1
-My first relational database design
+one of my first relational database designs
 
 and my first public git file :)
 
